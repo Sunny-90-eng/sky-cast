@@ -1,0 +1,7 @@
+{
+  "name": "SkyCast",
+  "description": "Live weather forecasts, GPS detection, hourly & 7-day outlook, city search, and favorites.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
